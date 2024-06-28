@@ -2,7 +2,7 @@
 
 This system helps user to get user essay based on user input. This is a multi-agent system created by the crewai. 
 
-![SmartResumeMatcher](https://github.com/saurabhznaikz/EssayMaven-create-eassy-using-CrewAI/blob/main/crewai.gif)
+![EassayMaven](https://github.com/saurabhznaikz/EssayMaven-create-eassy-using-CrewAI/blob/main/crew.gif)
 
 ## Installation
 Create virtual environment for python 3.10
